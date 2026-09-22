@@ -1,0 +1,15 @@
+D:\LT_CSDL\SQL_project\QuanLyBanSach\DAL_QuanLy\bin\Debug\net10.0\DAL_QuanLy.deps.json
+D:\LT_CSDL\SQL_project\QuanLyBanSach\DAL_QuanLy\bin\Debug\net10.0\DAL_QuanLy.dll
+D:\LT_CSDL\SQL_project\QuanLyBanSach\DAL_QuanLy\bin\Debug\net10.0\DAL_QuanLy.pdb
+D:\LT_CSDL\SQL_project\QuanLyBanSach\DAL_QuanLy\bin\Debug\net10.0\DTO_QuanLy.dll
+D:\LT_CSDL\SQL_project\QuanLyBanSach\DAL_QuanLy\bin\Debug\net10.0\DTO_QuanLy.pdb
+D:\LT_CSDL\SQL_project\QuanLyBanSach\DAL_QuanLy\obj\Debug\net10.0\DAL_QuanLy.csproj.AssemblyReference.cache
+D:\LT_CSDL\SQL_project\QuanLyBanSach\DAL_QuanLy\obj\Debug\net10.0\DAL_QuanLy.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT_CSDL\SQL_project\QuanLyBanSach\DAL_QuanLy\obj\Debug\net10.0\DAL_QuanLy.AssemblyInfoInputs.cache
+D:\LT_CSDL\SQL_project\QuanLyBanSach\DAL_QuanLy\obj\Debug\net10.0\DAL_QuanLy.AssemblyInfo.cs
+D:\LT_CSDL\SQL_project\QuanLyBanSach\DAL_QuanLy\obj\Debug\net10.0\DAL_QuanLy.csproj.CoreCompileInputs.cache
+D:\LT_CSDL\SQL_project\QuanLyBanSach\DAL_QuanLy\obj\Debug\net10.0\DAL_QuanLy.csproj.Up2Date
+D:\LT_CSDL\SQL_project\QuanLyBanSach\DAL_QuanLy\obj\Debug\net10.0\DAL_QuanLy.dll
+D:\LT_CSDL\SQL_project\QuanLyBanSach\DAL_QuanLy\obj\Debug\net10.0\refint\DAL_QuanLy.dll
+D:\LT_CSDL\SQL_project\QuanLyBanSach\DAL_QuanLy\obj\Debug\net10.0\DAL_QuanLy.pdb
+D:\LT_CSDL\SQL_project\QuanLyBanSach\DAL_QuanLy\obj\Debug\net10.0\ref\DAL_QuanLy.dll
